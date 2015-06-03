@@ -1,2 +1,2 @@
 # hello-world
-Tutorial repository
+Tutorial repository for my first GitHub project.
